@@ -9,3 +9,5 @@
 
 🌱 I'm always in search of learning and growth, and I'm excited about the endless possibilities that the world of software development offers.
 
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
