@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </div>
 
-
+<br />
 
 ⚙️ Backend, ORM and Database:
 <div>
